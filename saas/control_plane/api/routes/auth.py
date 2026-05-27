@@ -1,6 +1,7 @@
 """Auth endpoints: signup, login, MFA enroll, MFA verify, refresh, logout."""
 
 import os
+import uuid
 from datetime import datetime, timezone
 from typing import Optional
 
@@ -90,6 +91,7 @@ def signup(req: SignupReq):
             # Generate per-user DEK and store encrypted
             dek = generate_user_dek()
             dek_ct, dek_iv = encrypt_dek_with_kek(dek)
+            dek_uuid = str(uuid.uuid4())  # unique ID for this DEK version
 
             # Create empty broker creds row (placeholders) to hold the DEK
             cur.execute(
@@ -98,7 +100,7 @@ def signup(req: SignupReq):
                     mt5_password_enc, mt5_password_enc_iv, mt5_password_enc_tag, dek_id)
                    VALUES (%s, 'other', 0, '',
                            %s, %s, %s, %s)""",
-                (str(user_id), dek_ct, dek_iv, b"", "pending"),
+                (str(user_id), dek_ct, dek_iv, b"\x00" * 16, dek_uuid),
             )
 
             # Default user_configs row
