@@ -52,16 +52,18 @@ app = FastAPI(
 )
 
 # --- Security middleware -----------------------------------------------------
-# In production, replace allowed_hosts with your real domain
+# Set ALLOWED_HOSTS env var to your real domains in production.
+# Include "*.onrender.com" for Render deployments.
+_default_hosts = "localhost,127.0.0.1,d1-portfolio-api.onrender.com,*.onrender.com"
 app.add_middleware(
     TrustedHostMiddleware,
-    allowed_hosts=os.environ.get("ALLOWED_HOSTS", "localhost,127.0.0.1").split(","),
+    allowed_hosts=os.environ.get("ALLOWED_HOSTS", _default_hosts).split(","),
 )
 
 # CORS — frontend origin only. Tighten in production.
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=os.environ.get("CORS_ORIGINS", "http://localhost:3000").split(","),
+    allow_origins=os.environ.get("CORS_ORIGINS", "http://localhost:3000,https://d1-portfolio-api.onrender.com").split(","),
     allow_credentials=True,
     allow_methods=["GET", "POST", "PATCH", "DELETE"],
     allow_headers=["Authorization", "Content-Type"],
