@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+env/
+.python-version
+
+# Process locks (managed by process_lock.py at runtime)
+*.pid
+
+# Runtime logs (rotated; keep folder, ignore contents)
+logs/*.log
+logs/*.csv
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Local secrets / env files — these MUST never be committed
+.env
+.env.local
+*.secret
+
+# Node / webapp build artifacts (saas/webapp)
+saas/webapp/node_modules/
+saas/webapp/.next/
+saas/webapp/out/
+saas/webapp/build/
+
+# DO NOT IGNORE — these are persisted runtime state, but they ARE important
+# to commit/back up if you want to resume from where you left off:
+#   strategy_health.json    — per-strategy health counters + recovery rates
+#   strategy_cooldown.json  — agent-imposed cooldowns
+#   peak_equity.json        — shared drawdown baseline
+#   mfe_mae.json            — per-position MFE/MAE tracker
+# If you want a stateless deploy, add them to this file. Otherwise keep them.
+
+# Build / packaging
+dist/
+build/
+*.tar.gz
+
+# Coverage / test artifacts
+.coverage
+htmlcov/
+.pytest_cache/

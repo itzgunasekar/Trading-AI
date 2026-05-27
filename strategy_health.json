@@ -1,0 +1,577 @@
+{
+  "GBPAUD|rsi2_H1": {
+    "trades": [
+      {
+        "ts": "2026-05-22T02:59:00.549598+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-22T08:16:44.479548+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-25T02:35:06.755235+00:00",
+        "pnl": -416.03000000000003,
+        "win": false
+      },
+      {
+        "ts": "2026-05-25T08:57:46.930772+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-26T00:56:20.574894+00:00",
+        "pnl": 0.0,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": [],
+    "near_sl_touches": 1
+  },
+  "AUDJPY|momentum60_T": {
+    "trades": [
+      {
+        "ts": "2026-05-22T02:59:06.467659+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-22T14:13:28.730635+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-25T08:47:08.806771+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-26T00:56:20.574727+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-26T10:34:30.702466+00:00",
+        "pnl": 0.0,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": [],
+    "near_sl_touches": 0,
+    "recoveries": 0
+  },
+  "XAUUSD|donchian20": {
+    "trades": [
+      {
+        "ts": "2026-05-22T08:16:44.479419+00:00",
+        "pnl": 0.0,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": []
+  },
+  "EURCAD|rsi2": {
+    "trades": [
+      {
+        "ts": "2026-05-22T08:16:44.479504+00:00",
+        "pnl": 0.0,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": []
+  },
+  "USDJPY|momentum60_T": {
+    "trades": [
+      {
+        "ts": "2026-05-22T08:16:44.479662+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-22T14:13:28.730781+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-25T08:57:46.930828+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-26T00:56:20.574851+00:00",
+        "pnl": 0.0,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": []
+  },
+  "USDJPY|consensus": {
+    "trades": [
+      {
+        "ts": "2026-05-22T08:16:44.479715+00:00",
+        "pnl": 0.0,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": []
+  },
+  "USDJPY|momentum60": {
+    "trades": [
+      {
+        "ts": "2026-05-22T08:16:44.479760+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-22T15:26:07.094184+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-26T01:04:33.463195+00:00",
+        "pnl": 0.0,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": []
+  },
+  "XAUUSD|donchian20_T": {
+    "trades": [
+      {
+        "ts": "2026-05-22T08:16:44.479801+00:00",
+        "pnl": 0.0,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": []
+  },
+  "EURCHF|3day_reverse": {
+    "trades": [
+      {
+        "ts": "2026-05-22T08:16:44.479838+00:00",
+        "pnl": 0.0,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": []
+  },
+  "XAUUSD|momentum60_T": {
+    "trades": [
+      {
+        "ts": "2026-05-22T08:16:44.479914+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-26T01:04:33.462657+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-26T07:01:19.421493+00:00",
+        "pnl": 0.0,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": [],
+    "near_sl_touches": 0,
+    "recoveries": 0
+  },
+  "NZDJPY|rsi2_H1": {
+    "trades": [
+      {
+        "ts": "2026-05-22T09:24:02.941162+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-25T08:47:08.806822+00:00",
+        "pnl": 0.0,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": []
+  },
+  "XAUUSD|momentum60": {
+    "trades": [
+      {
+        "ts": "2026-05-22T10:43:24.113918+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-26T01:04:33.463096+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-26T07:01:19.421541+00:00",
+        "pnl": 0.0,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": [],
+    "near_sl_touches": 0,
+    "recoveries": 0
+  },
+  "XAGUSD|momentum60_H1": {
+    "trades": [
+      {
+        "ts": "2026-05-22T14:13:28.730726+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-25T02:35:06.755564+00:00",
+        "pnl": 467.14000000000004,
+        "win": true
+      },
+      {
+        "ts": "2026-05-25T15:11:34.298074+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-26T00:56:20.574751+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-27T02:46:38.163808+00:00",
+        "pnl": 0.0,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": [],
+    "near_sl_touches": 0,
+    "recoveries": 0
+  },
+  "CADJPY|rsi2": {
+    "trades": [
+      {
+        "ts": "2026-05-22T14:13:28.730756+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-25T08:47:08.806574+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-26T01:04:33.462948+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-26T07:01:19.421309+00:00",
+        "pnl": 0.0,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": [],
+    "near_sl_touches": 0,
+    "recoveries": 0
+  },
+  "AUDJPY|momentum60": {
+    "trades": [
+      {
+        "ts": "2026-05-22T15:26:07.094443+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-25T08:47:08.806808+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-26T00:56:20.574917+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-26T10:34:30.702788+00:00",
+        "pnl": 0.0,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": [],
+    "near_sl_touches": 0,
+    "recoveries": 0
+  },
+  "XAUUSD|momentum60_H1": {
+    "trades": [
+      {
+        "ts": "2026-05-25T02:35:06.754795+00:00",
+        "pnl": 442.59000000000003,
+        "win": true
+      },
+      {
+        "ts": "2026-05-25T08:47:08.806724+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-26T00:56:09.837034+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-26T11:35:48.510004+00:00",
+        "pnl": 0.0,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": [],
+    "near_sl_touches": 0,
+    "recoveries": 0
+  },
+  "XAGUSD|donchian20_H1": {
+    "trades": [
+      {
+        "ts": "2026-05-25T02:35:06.755207+00:00",
+        "pnl": -262.35999999999996,
+        "win": false
+      },
+      {
+        "ts": "2026-05-26T07:01:19.421420+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-27T02:46:38.163912+00:00",
+        "pnl": -271.15999999999997,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": [],
+    "near_sl_touches": 0,
+    "recoveries": 0
+  },
+  "GBPJPY|bb_extreme_H1": {
+    "trades": [
+      {
+        "ts": "2026-05-25T02:35:06.755224+00:00",
+        "pnl": -406.64,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": []
+  },
+  "AUDJPY|rsi2": {
+    "trades": [
+      {
+        "ts": "2026-05-25T08:47:08.806688+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-26T00:56:28.297324+00:00",
+        "pnl": 0.0,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": []
+  },
+  "AUDJPY|consensus": {
+    "trades": [
+      {
+        "ts": "2026-05-25T08:47:08.806709+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-26T00:56:20.574645+00:00",
+        "pnl": 0.0,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": []
+  },
+  "GBPJPY|momentum60": {
+    "trades": [
+      {
+        "ts": "2026-05-25T08:57:46.930844+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-25T15:11:34.298098+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-26T00:56:20.574811+00:00",
+        "pnl": 0.0,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": []
+  },
+  "GBPJPY|momentum60_T": {
+    "trades": [
+      {
+        "ts": "2026-05-25T08:57:46.942770+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-25T15:11:34.298039+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-26T00:56:20.574522+00:00",
+        "pnl": 0.0,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": []
+  },
+  "XAUUSD|rsi2": {
+    "trades": [
+      {
+        "ts": "2026-05-25T15:11:34.297979+00:00",
+        "pnl": 0.0,
+        "win": false
+      },
+      {
+        "ts": "2026-05-26T00:56:20.574996+00:00",
+        "pnl": 0.0,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": []
+  },
+  "XAUUSD|rsi2_H1": {
+    "trades": [
+      {
+        "ts": "2026-05-26T00:56:09.835765+00:00",
+        "pnl": 0.0,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": []
+  },
+  "XPDUSD|consensus": {
+    "trades": [
+      {
+        "ts": "2026-05-26T00:56:20.574591+00:00",
+        "pnl": 0.0,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": []
+  },
+  "NZDUSD|bb_extreme_H1": {
+    "trades": [
+      {
+        "ts": "2026-05-26T06:55:21.502487+00:00",
+        "pnl": 0.0,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": [],
+    "near_sl_touches": 1,
+    "recoveries": 0
+  },
+  "USDJPY|3day_reverse": {
+    "trades": [
+      {
+        "ts": "2026-05-26T06:55:21.502794+00:00",
+        "pnl": 0.0,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": [],
+    "near_sl_touches": 0,
+    "recoveries": 0
+  },
+  "CADJPY|bb_extreme_H1": {
+    "trades": [],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": [],
+    "near_sl_touches": 1,
+    "recoveries": 0
+  },
+  "EURCHF|bb_extreme_H1": {
+    "trades": [
+      {
+        "ts": "2026-05-27T02:46:38.163956+00:00",
+        "pnl": -816.97,
+        "win": false
+      }
+    ],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": [],
+    "near_sl_touches": 1,
+    "recoveries": 0
+  },
+  "GBPAUD|bb_extreme_H1": {
+    "trades": [],
+    "status": "active",
+    "inactive_since": null,
+    "paper_trades": [],
+    "near_sl_touches": 1,
+    "recoveries": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "8757479821": {
+    "mfe_price": 1.60395,
+    "mae_price": 1.6079400000000001,
+    "first_70pct_ts": null,
+    "opened_ts": 1779457404,
+    "symbol": "EURCAD",
+    "strat": "rsi2"
+  },
+  "8790308305": {
+    "mfe_price": 4483.16,
+    "mae_price": 4540.58,
+    "first_70pct_ts": null,
+    "opened_ts": 1779797380,
+    "symbol": "XAUUSD",
+    "strat": "momentum60_T"
+  },
+  "8790308710": {
+    "mfe_price": 4483.16,
+    "mae_price": 4540.58,
+    "first_70pct_ts": null,
+    "opened_ts": 1779797381,
+    "symbol": "XAUUSD",
+    "strat": "momentum60"
+  },
+  "8790308906": {
+    "mfe_price": 214.675,
+    "mae_price": 214.084,
+    "first_70pct_ts": null,
+    "opened_ts": 1779797382,
+    "symbol": "GBPJPY",
+    "strat": "momentum60_T"
+  },
+  "8790309066": {
+    "mfe_price": 214.675,
+    "mae_price": 214.084,
+    "first_70pct_ts": null,
+    "opened_ts": 1779797383,
+    "symbol": "GBPJPY",
+    "strat": "momentum60"
+  },
+  "8790309119": {
+    "mfe_price": 115.45,
+    "mae_price": 115.188,
+    "first_70pct_ts": null,
+    "opened_ts": 1779797383,
+    "symbol": "CADJPY",
+    "strat": "rsi2"
+  }
+}
